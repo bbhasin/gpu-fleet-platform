@@ -180,7 +180,7 @@ Built by **Baljeet Bhasin** as a portfolio piece during the transition
 from compute-org TPM at Oracle OCI into AI infrastructure roles.
 NCP-AII and NCA-AIIO certified.
 
-Reach me on LinkedIn: <https://www.linkedin.com/in/baljeetbhasin>
+Reach me on LinkedIn: <https://www.linkedin.com/in/baljeet-bhasin-pmp-968959/>
 or bbhasin@gmail.com.
 
 ---
